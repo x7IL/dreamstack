@@ -35,4 +35,4 @@ You can revoke tracking consent any time from the game's Settings → Privacy.
 
 ## Contact
 
-privacy@w-x.fr
+privacy@singularislab.com
