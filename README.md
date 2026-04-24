@@ -1,8 +1,9 @@
-# wx-legal
+# Dreamstack — legal
 
-Public-facing legal documents for WX games.
+Public-facing legal documents for the mobile game **Dreamstack**
+(`com.singularislab.dreamstack`, made by Singularis Lab).
 
-- [Dreamstack privacy policy](./dreamstack/privacy.md)
+- [Privacy policy](./privacy.html)
 
-Hosted via GitHub Pages at
-`https://x7il.github.io/wx-legal/`.
+Published via GitHub Pages at
+<https://x7il.github.io/dreamstack/>.
